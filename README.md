@@ -55,7 +55,24 @@ piscina/
 └── README.md
 ```
 
-## Instalación y Uso
+## 🚀 Despliegue en Producción
+
+### Coolify (Recomendado)
+
+Para desplegar en tu servidor Coolify, sigue la guía específica:
+
+📖 **[COOLIFY-CONFIG.md](COOLIFY-CONFIG.md)** - Configuración paso a paso con tu base de datos
+
+También puedes consultar:
+- 📖 **[DEPLOY.md](DEPLOY.md)** - Guía completa de despliegue con Coolify
+
+### Repositorios
+
+- **Backend**: https://github.com/carlosvidal/surco-deportes-backend
+- **Frontend**: https://github.com/carlosvidal/surco-deportes-frontend
+- **Documentación**: https://github.com/carlosvidal/surco-deportes
+
+## Instalación y Uso (Desarrollo Local)
 
 ### Requisitos Previos
 
